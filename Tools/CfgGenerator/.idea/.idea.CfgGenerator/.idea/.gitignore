@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/.idea.CfgGenerator.iml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Framework\Tools\CfgGenerator\CfgGenerator\.idea\.idea.CfgGenerator\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

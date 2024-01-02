@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2602425211
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ffb30b83eaa9f8e778d839b7c664ae6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d1e0093d0592ca7550333bbf0c8f406
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundle/TestPrefab/Cube.prefab
+Dependencies:
+- F:/Framework/Framework/Assets/../Build/testmat.ab

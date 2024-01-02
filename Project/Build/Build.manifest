@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 3238488850
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: testmat.ab
+      Dependencies: {}
+    Info_1:
+      Name: testprefab.ab
+      Dependencies:
+        Dependency_0: testmat.ab
